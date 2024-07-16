@@ -39,7 +39,8 @@ This Jupyter Notebook provides a step-by-step explanation and implementation of 
 ## Output
 
 The repository includes sample output images of antimagic labeled graphs. These images demonstrate the uniqueness of vertex sums for different graph types.
-![fig_6_perfect5](https://github.com/user-attachments/assets/03b5ec69-a82c-4925-b3bc-6e984f2ad631)
+![fig_6_perfect5](https://github.com/user-attachments/assets/bf0d3a4e-273a-4610-92c3-cee69e837985)
+
 
 
 ![Antimagic Labeled Graph](images/output1.png)
