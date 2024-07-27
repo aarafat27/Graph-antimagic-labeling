@@ -49,10 +49,13 @@ The repository includes sample output images of antimagic labeled graphs. These 
 
 ![Figure_r1](https://github.com/user-attachments/assets/4bf03af6-66cd-4e42-a16f-a6fa18630e4e)
 <p align="center">Figure: Antimagic labeling of K5 complete graph</p>
+
 ![Figure_1](https://github.com/user-attachments/assets/8462e69c-f779-44ae-a4c9-cdab83858b88)
 <p align="center">Figure: Antimagic labeling of K10 complete graph</p>
+
 ![fig_9_pyramid](https://github.com/user-attachments/assets/919cd03c-30b5-46f7-b857-c3d325263c4e)
 <p align="center">Figure: Antimagic labeling of W7 pyramid graph</p>
+
 <img width="576" alt="Screenshot 2024-07-25 164857" src="https://github.com/user-attachments/assets/5d546d99-837e-4dbf-b931-7a9960fb06f1">
 
 ## Contributing
