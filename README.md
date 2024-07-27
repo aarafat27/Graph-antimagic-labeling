@@ -40,8 +40,7 @@ This Jupyter Notebook provides a step-by-step explanation and implementation of 
 
 The repository includes sample output images of antimagic labeled graphs. These images demonstrate the uniqueness of vertex sums for different graph types.
 ![fig_6_perfect5](https://github.com/user-attachments/assets/bf0d3a4e-273a-4610-92c3-cee69e837985)
-###  Antimagic labeling for perfect binary tree of level 5
-<p align="center">Antimagic labeling for perfect binary tree of level 5</p>
+<p align="center">Figure: Antimagic labeling for perfect binary tree of level 5</p>
 
 
 ![Antimagic Labeled Graph](images/output1.png)
