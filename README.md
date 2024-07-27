@@ -33,7 +33,7 @@ This Jupyter Notebook provides a step-by-step explanation and implementation of 
 - **Algorithm Implementation**: Code cells that implement the prime number generation and graph labeling.
 - **Visualization**: Visual representations of the labeled graphs to illustrate the antimagic properties.
 
-## Findings and Conjectures
+## 🔭 Findings and Conjectures
 
 - **Conjecture**: Every graph can be antimagic labeled using prime numbers.
 - **Proof of Theory 1**: Specific types of graphs can be antimagic labeled using a unique set of prime numbers.
